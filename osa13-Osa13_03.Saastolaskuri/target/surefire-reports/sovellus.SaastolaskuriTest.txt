@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: sovellus.SaastolaskuriTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 47.318 s <<< FAILURE! - in sovellus.SaastolaskuriTest
+tallennuksenKertymanLaskeminenMinimiarvolla(sovellus.SaastolaskuriTest)  Time elapsed: 5.67 s  <<< FAILURE!
+java.lang.AssertionError: Kertymän näyttö ei ole oikein kun tallennuksen kertymistä tarkastellaan kuukausittaisella minimitallennuksella (25 / kk).
+	at sovellus.SaastolaskuriTest.tarkasteleKaavionViivoja(SaastolaskuriTest.java:334)
+	at sovellus.SaastolaskuriTest.tallennuksenKertymanLaskeminenMinimiarvolla(SaastolaskuriTest.java:221)
+
+tallennuksenKertymanLaskeminenMaksimiarvolla(sovellus.SaastolaskuriTest)  Time elapsed: 16.655 s  <<< FAILURE!
+java.lang.AssertionError: Kertymän näyttö ei ole oikein kun tallennuksen kertymistä tarkastellaan kuukausittaisella maksimitallennuksella (250 / kk).
+	at sovellus.SaastolaskuriTest.tarkasteleKaavionViivoja(SaastolaskuriTest.java:334)
+	at sovellus.SaastolaskuriTest.tallennuksenKertymanLaskeminenMaksimiarvolla(SaastolaskuriTest.java:233)
+

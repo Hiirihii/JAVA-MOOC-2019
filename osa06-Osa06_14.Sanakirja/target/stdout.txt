@@ -1,0 +1,44 @@
+Komennot:
+lisaa - lisää sanaparin sanakirjaan
+kaanna - kysyy sanan ja tulostaa sen käännöksen
+lopeta - poistuu käyttöliittymästä
+ 
+Komento: Hei hei!
+Komennot:
+lisaa - lisää sanaparin sanakirjaan
+kaanna - kysyy sanan ja tulostaa sen käännöksen
+lopeta - poistuu käyttöliittymästä
+ 
+Komento: Suomeksi:
+Käännös:
+Komento: Hei hei!
+Komennot:
+lisaa - lisää sanaparin sanakirjaan
+kaanna - kysyy sanan ja tulostaa sen käännöksen
+lopeta - poistuu käyttöliittymästä
+ 
+Komento: Hei hei!
+Komennot:
+lisaa - lisää sanaparin sanakirjaan
+kaanna - kysyy sanan ja tulostaa sen käännöksen
+lopeta - poistuu käyttöliittymästä
+ 
+Komento: Komento: Komento: Hei hei!
+Komennot:
+lisaa - lisää sanaparin sanakirjaan
+kaanna - kysyy sanan ja tulostaa sen käännöksen
+lopeta - poistuu käyttöliittymästä
+ 
+Komento: Suomeksi:
+Käännös:
+Komento: Hei hei!
+Komennot:
+lisaa - lisää sanaparin sanakirjaan
+kaanna - kysyy sanan ja tulostaa sen käännöksen
+lopeta - poistuu käyttöliittymästä
+ 
+Komento: Suomeksi:
+Käännös:
+Komento: Suomeksi:
+Käännös:
+Komento: Hei hei!
